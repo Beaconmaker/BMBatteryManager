@@ -1,0 +1,14 @@
+PODS:
+  - BMBatteryManager (0.1.0)
+
+DEPENDENCIES:
+  - BMBatteryManager (from `../`)
+
+EXTERNAL SOURCES:
+  BMBatteryManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BMBatteryManager: 44d488022f5a03b85460b4d44d67521b1aa20603
+
+COCOAPODS: 0.39.0

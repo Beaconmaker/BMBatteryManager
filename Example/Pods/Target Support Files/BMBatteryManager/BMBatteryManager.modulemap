@@ -1,0 +1,6 @@
+framework module BMBatteryManager {
+  umbrella header "BMBatteryManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

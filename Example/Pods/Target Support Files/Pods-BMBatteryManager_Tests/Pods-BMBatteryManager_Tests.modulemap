@@ -1,0 +1,6 @@
+framework module Pods_BMBatteryManager_Tests {
+  umbrella header "Pods-BMBatteryManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
